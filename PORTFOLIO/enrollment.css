@@ -1,0 +1,19 @@
+body{
+    background-color: antiquewhite;
+}
+h3{
+    text-align: center;
+    color:rgb(38, 5, 250);
+    width: 500px;
+    margin-left: 250px;
+    border:2px dashed black;
+ 
+}
+div{
+    border: 4px double black;
+    padding: 10px 10px 10px 10px;
+}
+#id1{
+    color: #00020a;
+    background-color: aqua;
+}

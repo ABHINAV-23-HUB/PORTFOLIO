@@ -1,0 +1,29 @@
+body{
+    background-color: cornsilk;
+    border: 2px solid brown;
+    padding: 10px 10px 10px 10px;
+}
+h3{
+    color: #060696;
+    text-align: center;
+    padding: 10px 10px 10px 10px ;
+    margin-left: 250px;
+    margin-right: 250px ;
+    border: 2px solid black;
+}
+article{
+    height: 100px;
+    width: 700px;
+    border: 4px double blue;
+    padding: 10px 10px 10px 10px;
+    background-color: chartreuse;
+}
+footer{
+    line-height: 15px;
+    padding: 10px 10px 10px 10px ;
+    color: #fdfbfb;
+    background-color: black;
+    a{
+        color: rgb(87, 243, 243);
+    }
+}
